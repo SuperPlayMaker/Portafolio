@@ -1,0 +1,22 @@
+{
+	"es":{
+			"welcomeMSG": "¡Hola! \nBienvenido a mi portafolio web.",
+			"tutorialExplain": "Navega por las secciones haciendo click en cada una de ellas.",
+			"tutMovements": "Movimientos",
+			"tutKeysBtn": "Usa las flechas de movimientos para mover al mini Diego",
+			"bioStorypt1": "Nací en el año 2000 un 6 de marzo, apasionado con el dibujo y los videojuegos, descubrí que tengo una buena capacidad creativa para crear cosas.",
+			"bioStorypt2": "Actualmente soy ingeniero en sistemas, creo videojuegos y paginas web por hobby.",
+			"bioWork": "Trabajo",
+			"infoBTN": "Mas info",
+			"TGsub": "Subscribe",
+			"tabProj": "Proyectos",
+			"tabContacts": "Contacto",
+			"RGabout": "Creador de juego independiente.",
+			"TGcommAbout": "Proximamente tendremos comunidad de Telegram donde brindamos asistencia gratuita en problemas de hardware y software.",
+			"tfpAbout": "An RPG set in Italy during the plague period. Our protagonist will discover that the epidemic has a demonic origin.",
+			"DBMMOabout": "16bit MMORPG in the style of older GBA titles like Dragonball Buu's Fury.\n\nThe title will be an open world entirely in online multiplayer.",
+			"infoDesc": "Este portafolio representa mi compromiso y pasión por el desarrollo de juegos y los juegos, y fue creado con la intención de compartir mi experiencia y trayectoria profesional con ustedes.\n\nSi tienes alguna duda o pregunta, sientete libre de contactarme.\n\n¡Gracias por visitar mi sitio!",
+			"paletteTXT": "Color palette:",
+			"devBy": "Developed by:"
+	}
+}
